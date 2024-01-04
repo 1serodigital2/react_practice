@@ -321,7 +321,9 @@ hr{
 #footer{
     padding: 100px 0;
 }
-
+#footer p{
+    color: red;
+}
 
 
 
